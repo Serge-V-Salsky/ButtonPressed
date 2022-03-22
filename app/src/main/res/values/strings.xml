@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Button Pressed</string>
+    <string name="myButton">Кнопка</string>
+</resources>
